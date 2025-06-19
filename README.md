@@ -1,2 +1,6 @@
-# tempemail.id
-e-mail,temporary,spam,email,free,e-mail address,30分钟邮箱,三十分钟邮箱,邮箱,临时邮箱,匿名邮箱,tempemail,tempmail,tempemail.id,https://tempemail.zhuoluo.tech/,临时邮箱、临时邮、临时电子邮箱、24小时邮箱、一次性邮箱、匿名邮箱、安全邮箱、临时Email、快速注册Email、自动刷新接收
+
+# https://tempemail.zhuoluo.tech/
+
+## 无需注册即可获得临时邮箱地址，接收验证码和一次性邮件，保护您的真实邮箱免受垃圾邮件侵扰。
+
+## Get a temporary email address without registration to receive verification codes and one-time emails, protecting your real email from spam.
